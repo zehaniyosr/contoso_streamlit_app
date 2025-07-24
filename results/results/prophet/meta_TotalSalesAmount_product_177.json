@@ -1,0 +1,4 @@
+{
+  "model": "Prophet",
+  "target": "TotalSalesAmount",
+  "product_id": 
